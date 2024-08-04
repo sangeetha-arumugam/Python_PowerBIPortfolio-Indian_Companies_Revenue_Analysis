@@ -54,13 +54,13 @@ Option 1: [Kaggle](https://www.kaggle.com/datasets?fileType=csv)
 
 ![Alternative Text](assets/images/Findings Q5.png)
 
-### 4. Revenue vs Profit by Company Name
+### 5. Revenue vs Profit by Company Name
 
 **Insight:** We can see that very few companies only exit to maximum revenue and profit.
 
 ![Alternative Text](assets/images/Findings Q6.png)
 
-### 5. Revenue Growth % vs. Profit:
+### 6. Revenue Growth % vs. Profit:
 
 **Insight:** o	Most data points fall within the range of 0.3% to 25,000 in profit, indicating a standard growth pattern among the companies analyzed. Only a few outliers exceed this range, suggesting exceptional performance or specific circumstances.
 
